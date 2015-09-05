@@ -727,3 +727,7 @@ ia (max-width: 767px) {
 .row.top-padding {
     padding-top: 40px;
 }
+
+.footer p {
+    font-size: 12px;
+}
