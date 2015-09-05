@@ -308,6 +308,10 @@ header .header-content .header-content-inner p {
     font-size: 18px;
 }
 
+.portfolio-box .portfolio-box-caption .portfolio-box-caption-content .project-note {
+    font-size: 10px;
+}
+
 .portfolio-box:hover .portfolio-box-caption {
     opacity: 1;
 }
